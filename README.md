@@ -1,8 +1,8 @@
 # AuctionSystem
 
- AuctionX - Online Auction System built with Java EE!
+# AuctionX - Online Auction System built with Java EE!
 
-Key Features:
+#Key Features:
 Real-time bidding with JMS asynchronous messaging
 Role-based access (Admin/Seller & User/Bidder)
 Auction management with stateful session beans
